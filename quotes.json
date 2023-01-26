@@ -1,0 +1,434 @@
+[{
+  "_id": {
+    "$oid": "638b2323481347f901315bf5"
+  },
+  "quote": "Best antidote for fear is competence.",
+  "author": "Chris Hadfield"
+},{
+  "_id": {
+    "$oid": "638b2323481347f901315bf6"
+  },
+  "quote": "We always prepare ourselves for the previous enemy. Even when we face an altogether new menace.",
+  "author": "Yuval Noah Harari"
+},{
+  "_id": {
+    "$oid": "638b2323481347f901315bf7"
+  },
+  "quote": "Reality is that which, when you stop believing in it, doesn’t go away.",
+  "author": "Philip K. Dick"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384191"
+  },
+  "quote": "We think our fathers fools, so wise we grow. Our wiser sons, no doubt will think us so.",
+  "author": "Alexander Pope"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384194"
+  },
+  "quote": "When someone is made the head of an office in the Ogilvy & Mather chain, I send him a Matrioshka doll from Gorky. Inside the smallest doll, he finds this message: “If each of hires people who are smaller than we are, we shall become a company of dwarves”",
+  "author": "David Ogilvy",
+  "context": "on hiring"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384195"
+  },
+  "quote": "The things you avoid are the things you need to pay attention to the most. These are the things at the root of your deepest struggles — these are also the very things that will set you free.",
+  "followup": "What are you unwilling to feel?",
+  "author": "Zen"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384196"
+  },
+  "quote": "Your job as a leader is not to make the hard calls. That’s ego talking.",
+  "followup": "Your job as a leader is to clearly explain how you made the hard call so that your team understands how you think, what strategy you are employing, and what principles you are following.",
+  "author": "Rands"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384197"
+  },
+  "quote": "You have to learn from contact with reality",
+  "author": "Sam Altman",
+  "context": "OpenAI on releasing products to public"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384198"
+  },
+  "quote": "When I stopped asking if my life was good and started wondering if it was interesting, everything changed. ",
+  "author": "Jeff Goins"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc384199"
+  },
+  "quote": "A good story is not a comfortable one. A tale worth telling is full of weird and quirky moments, surprises and setbacks and the occasional disappointment. ",
+  "author": "Jeff Goins"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc38419a"
+  },
+  "quote": "“Interesting” by definition contains a dash of the unexpected, so why would it be any different with living one’s life?",
+  "author": "Jeff Goins"
+},{
+  "_id": {
+    "$oid": "638b6a85283a7c4cbc38419b"
+  },
+  "quote": "What I’ve learned is this: life is not about breaking the rules. It’s about making them. We all have an opportunity to create the terms under which we are willing to live. ",
+  "author": "Jeff Goins"
+},{
+  "_id": {
+    "$oid": "638b6b5e283a7c4cbc38419c"
+  },
+  "quote": "Man prefers to believe what he prefers to be true.",
+  "author": "Francis Bacon"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc38419d"
+  },
+  "quote": "People think about you much less than you either hope or fear.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc38419e"
+  },
+  "quote": "Be sparing in how often you tell someone their negative feelings are wrong; it rarely helps a sad person to be told that they are also a liar.",
+  "followup": "Related: feelings are *real*.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc38419f"
+  },
+  "quote": "Organizing your email is like alphabetizing your recycling.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a0"
+  },
+  "quote": "When you’re feeling awful and aren't sure what to do, pretend you are the person you love the most, and give them your best advice.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a1"
+  },
+  "quote": "Without active care and curation, any area in your home will tend to become “storage.”",
+  "followup": "Related: “storage” is the least muscular or affirmative use of space in your life. Live and active areas represent future possibility; “storage” is an emotionally costly way of warehousing the past.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a2"
+  },
+  "quote": "Every few months, take at least one panorama photo of your kid's room. At least annually, secretly record your kid talking for at least ten minutes. I promise you'll treasure both, and then you will curse yourself for not having done each way more often.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a3"
+  },
+  "quote": "Try always to store something in the first place you just looked for it. Not “where it's pretty” or “where we used to keep it” or “where we have more room.” It goes *where it goes*, not where you **think** it goes.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a4"
+  },
+  "quote": "Frequently ask yourself: do I want to be right, or do I want to be happy?",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a5"
+  },
+  "quote": "Every project is a triangle made of time, money, and quality; shortening the length of one side necessarily lengthens one or—more often—*both* of the other sides.",
+  "followup": "Less well known is that we each tend to blow it hardest in estimating the sides of the triangle we least understand or respect.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a6"
+  },
+  "quote": "Whoever wants the meeting most usually holds the least power.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a7"
+  },
+  "quote": "To better understand anyone's childhood, learn which things were way harder for them than they were for you.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a8"
+  },
+  "quote": "If you want an honest opinion, ask for the second superlative. For example, if you want a thoughtful answer about someone's job, ask them their *second-least-favorite* thing about it.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841a9"
+  },
+  "quote": "When you get stuck and frustrated about how to solve a problem, stop, take a breath, and ask yourself, “What am I actually trying to accomplish here?” Because, that’s the outcome on the other side of a new and less ambiguous strategy.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841ab"
+  },
+  "quote": "After you’ve had two alcoholic beverages, begin alternating with equal amounts of water. If you have more than five drinks, change that ratio to two-to one in favor of water.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841ac"
+  },
+  "quote": "Sometimes in life, even though it's not your *fault*, it's still your problem.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841ad"
+  },
+  "quote": "Never argue on the internet. No one will remember whether you won or lost the argument; they'll just remember that you are the sort of person who argues on the internet.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841ae"
+  },
+  "quote": "Whatever your problem is, remember that before you can get better, you have to stop getting worse. Try first to stop getting worse.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841af"
+  },
+  "quote": "To an anxious person, it often feels like the only way to achieve relaxed certainty is to keep seeking new information. But, remember that the more you know, the more you'll realize you don't know. And, then, you'll usually just find yourself fretting about getting more and more information, et cetera. Incline yourself towards getting out of the information centrifuge.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841b0"
+  },
+  "quote": "“Experience” is rarely the verb you're looking for. Reword your sentence with a more clear and muscular focus on what actually happened—and who or what caused it to happen. So, maybe don't say “I am experiencing technical difficulties” if you really mean “I broke the internet.” You're not fooling anyone.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841b1"
+  },
+  "quote": "You are not obligated to have a strong opinion about everything. Get fewer opinions about way fewer things, and then strive always to interrogate the basis of your strongest opinions. This is very difficult, so be grateful if you've found fewer strong opinions to interrogate.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841b2"
+  },
+  "quote": "Priorities are like arms. If you think you have more than a couple, you're either lying or crazy.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b7172283a7c4cbc3841b3"
+  },
+  "quote": "If you're struggling to understand someone's behavior or motivation, understand that it's almost always because of money, fear, or both.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b734e283a7c4cbc3841b4"
+  },
+  "quote": "Whenever you need to carry two seemingly identical things (like, drinks or toothbrushes or what have you), always—and only—ever carry the one that’s yours in your right hand. When you pick up the two items, always mutter aloud to yourself, “I’m always **right**.” Because, now, you are always right.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b8005528b7baef95a11dd"
+  },
+  "quote": "Most well-written characters have something they want—or something they *think* they want. The more fascinating characters also have something they don’t want you to know. The best ones also have something they’re not pulling off nearly as well as they think.",
+  "followup": "Related: these are each also true for real people.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11de"
+  },
+  "quote": "Whenever you meet someone new, ask them what they're most excited about right now. Everyone interesting is excited about something right now, and they'd probably love to tell you about it.",
+  "followup": "Related. When you meet a child, ask them if they would share the coolest thing that's happened to them this week. You can also ask them about their favorite food. Kids love food and have many thoughts about it.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11df"
+  },
+  "quote": "Whenever you're considering escalating any relationship, ask yourself whether you'd be okay with getting ten times more of them. In other words, consider whether a lot more of “how they are” is a thing you really want to pursue.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e0"
+  },
+  "quote": "Treat every person you encounter as though they are having a way worse day than you.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e1"
+  },
+  "quote": "In thinking about optimizing how you work, try to distinguish between the parts of your job that are *necessarily difficult* versus the parts that are harder than they actually need to be. The former is the reason that you get the big bucks, and the latter is the reason why you may often feel like the bucks should be bigger.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e2"
+  },
+  "quote": "If you want something in life, consider just asking for it. Your friends, clients, and romantic partners are probably not mind-readers.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e3"
+  },
+  "quote": "Everybody is doing the best they can each day. Even though what they can do is rarely enough.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e4"
+  },
+  "quote": "Pay attention to the times of day when you tend to have the most and the least energy. Schedule your future days accordingly.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e5"
+  },
+  "quote": "If you feel uncomfortable in small talk situations, first ensure you're doing a *really* good job of listening. No, like: actually listening instead of thinking about how uncomfortable you are about being in the conversation.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e6"
+  },
+  "quote": "Learn about Chesterton's Fence. Then, actively resist altering a given situation before you understand the reasons why it's remained unchanged for so long.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e7"
+  },
+  "quote": "Generally avoid clothing that's more interesting than you are.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e8"
+  },
+  "quote": "Whenever you and an acquaintance find yourselves at an impasse, consider that you are probably starring in different movies. Then, ask yourself how you might be looking in *their* movie.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11e9"
+  },
+  "quote": "In life, you *are* your options.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11ea"
+  },
+  "quote": "Give kids the opportunity to learn and practice new things in a low-stakes environment. Failure is important in life, but it needn't always be costly or dangerous.",
+  "author": "Merlin Mann",
+  "followup": "Related: also do this for everyone else. Including yourself."
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11eb"
+  },
+  "quote": "Thoughts and feelings are real, but they do not have to define you. Remember that you are the sky—*not the weather*.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11ec"
+  },
+  "quote": "A party is only as good as the people who attend it. Especially you. Be helpful, be fun, and delight at least one new stranger.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "638b804f528b7baef95a11ed"
+  },
+  "quote": "Learn the difference between being “busy” versus being *time-constrained*. Time constraint is an immutable fact of adult life; while it can (and should) be managed, time constraint can never be eradicated. Being “busy”  should be better understood as a time-limited result of an earlier management error. If you find that your busy-ness has become permanent, you must learn to manage earlier, differently, and much *much* better.",
+  "followup": "Related: start acting like your life matters.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a3063b51d143b33e91af10"
+  },
+  "quote": "The fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown.",
+  "author": "Carl Sagan"
+},{
+  "_id": {
+    "$oid": "63a3067051d143b33e91af12"
+  },
+  "quote": "Andrea: \"Unhappy is the land that breeds no hero.\"",
+  "followup": "Galileo: \"No, Andrea: Unhappy is the land that needs a hero.\"",
+  "author": "B. Brecht, Life of Galileo"
+},{
+  "_id": {
+    "$oid": "63a3068f51d143b33e91af14"
+  },
+  "quote": "Powers once cheered become feared when in the hands of those with whom you disagree.",
+  "author": "Ben Thompson"
+},{
+  "_id": {
+    "$oid": "63a306a251d143b33e91af16"
+  },
+  "quote": "The role of a product manager is to bridge the gap between what customers need and what the business can deliver, while maximizing value for both.",
+  "author": "GPT-3"
+},{
+  "_id": {
+    "$oid": "63a30abf51d143b33e91af18"
+  },
+  "quote": "When you first try to meditate, it'll feel like you're doing it wrong and are terrible at it. Eventually, you'll figure out that being terrible at meditation and feeling like you're doing it wrong is kind of the whole point of meditation. In truth, as long as you keep getting back to your practice, you are actually great at meditation, and you are doing very well at it.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a3223d5f81f476e2536cd0"
+  },
+  "quote": "If a given thing you've decided to do goes flawlessly, what's the best possible outcome you can imagine? Keep this question in mind before you, say, jump onto a moving car or scream at a baby.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a322555f81f476e2536cd2"
+  },
+  "quote": "Try to save some parts of your life to be just for you. Including some special things that you're happy about or are even a little proud of. If your only private things are shameful things, you will become very sad and will eventually despise your own company.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a322645f81f476e2536cd4"
+  },
+  "quote": "To delight a busy person, learn to ask questions that can easily be answered with a single word: \"Yes.\"",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a518fc5f81f476e2536cd6"
+  },
+  "quote": "Whenever your first solution to a problem feels like it should involve buying something plastic at The Container Store, consider a second solution.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519275f81f476e2536cd8"
+  },
+  "quote": "Reading Shakespeare is all about finding the right velocity. Read it too fast, and it won't make any sense. Read it too slow, and it'll make even less sense.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519565f81f476e2536cda"
+  },
+  "quote": "The people most obsessed with the (supposed) hypocrisy of strangers are often the people who most dread strangers uncovering their own hypocrisy. This makes many of these people a little insufferable and not very fun to hang out with.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519905f81f476e2536cdc"
+  },
+  "quote": "Before deciding that you have solved a problem, it's useful to ask yourself whether you understand what caused the problem, as well as knowing precisely how your specific choice of solution has \"fixed\" it. If you mostly just kept trying various random things until something seemed to improve, you just got lucky. Which is different.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519a95f81f476e2536cde"
+  },
+  "quote": "It is normal and human to fear things that you don't understand. But, seeking to understand something does not mean you have to like it or agree with it. It may, however, suddenly make some of your fears feel refreshingly optional.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519d15f81f476e2536ce0"
+  },
+  "quote": "Most parents understand it's their job to keep their child from dying. But, as the kid gets older, it also becomes increasingly vital not to prevent them from living. This is very difficult.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a519ed5f81f476e2536ce2"
+  },
+  "quote": "If you're going to pick a fight online, do it in the late afternoon. That way, you're less likely to blow a perfectly good working day being all mad. Plus, you'll both tire yourselves out eventually, and maybe you'll do better tomorrow.",
+  "followup": "Related: do not pick fights online.",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a51a025f81f476e2536ce4"
+  },
+  "quote": "If you really want to help someone, offer something extremely specific. \"I'm here for you!\" is not nearly as cool as \"Can I drop off a lasagna at 4?\"",
+  "author": "Merlin Mann"
+},{
+  "_id": {
+    "$oid": "63a8ffc4eccf87115b514761"
+  },
+  "quote": "The acid test for any two competing socioeconomic systems is which side needs to build a wall to keep people from escaping? That's the bad one!",
+  "author": "Elon Musk"
+}]
