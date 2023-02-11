@@ -589,4 +589,10 @@
   },
   "quote": "If that sounds stupid, trust your instincts.",
   "author": "Scott Galloway"
+},{
+  "_id": {
+    "$oid": "63e70994b67b16e7832682b3"
+  },
+  "quote": "Too many people bring the best of themselves to work and keep the leftovers at home.",
+  "author": "Simone Stolzoff"
 }]
