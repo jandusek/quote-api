@@ -595,4 +595,11 @@
   },
   "quote": "Too many people bring the best of themselves to work and keep the leftovers at home.",
   "author": "Simone Stolzoff"
+},{
+  "_id": {
+    "$oid": "64213b5c8c11167dccba806a"
+  },
+  "quote": "Sometimes, the best thing to do isn't preventing a friend from making a mistake, but rather being there for them after they've made it.",
+  "followup": "Especially in relationships, it's not always possible to learn from mistakes of others. We have to experience them on our own to learn.",
+  "author": "Yours truly"
 }]
