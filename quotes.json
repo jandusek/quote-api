@@ -602,4 +602,16 @@
   "quote": "Sometimes, the best thing to do isn't preventing a friend from making a mistake, but rather being there for them after they've made it.",
   "followup": "Especially in relationships, it's not always possible to learn from mistakes of others. We have to experience them on our own to learn.",
   "author": "Yours truly"
+},{
+  "_id": {
+    "$oid": "6440c4b2f3e8658ca806be6b"
+  },
+  "quote": "A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall. Speak what you think now in hard words, and to-morrow speak what to-morrow thinks in hard words again, though it contradict every thing you said to-day.",
+  "author": "Ralph Waldo Emerson"
+},{
+  "_id": {
+    "$oid": "6440c4b2f3e8658ca806be6c"
+  },
+  "quote": "Never underestimate the power of having to ship to a deadline.",
+  "author": "James Allworth"
 }]
